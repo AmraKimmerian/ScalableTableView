@@ -13,4 +13,4 @@ tmp/
 .idea/
 build/
 /gradle.properties
-/gradle/
+
